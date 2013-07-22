@@ -1,0 +1,18 @@
+EVECraft - Multiplayer 2D Sandbox Game based on EVE Universe (bakground story, simplified ships and technologies)
+
+- Up view
+- Pixel art
+- Randomly generated sectors, one of them containing the EVE Gate (unknown position but far away from spawn point)
+- Interlinked sectors (nodes and trees)
+- Factions (can choose standing) + random quests + combats (of course!)
+- RPG Objective is to open the EVE Gate
+- Complex crafting system (more than in MineCraft !!)
+- Expandable resources
+- Buildings (planet management)
+- Multiplayer mode (you can choose your race and spawn point distance : near, far, close, ...) max x joueurs
+- SDL
+- Zoom in/out function
+- Control with keys + mouse
+- Exploration
+- Skills (time needs reduced, idem for mining, purpose is exploration and combat mainly)
+- Requirements to fulfill objective

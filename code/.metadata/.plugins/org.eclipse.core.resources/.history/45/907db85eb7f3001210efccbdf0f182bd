@@ -1,0 +1,16 @@
+/*
+ * main.c
+ *
+ *  Created on: 23 juil. 2013
+ *      Author: Emmanuel
+ */
+
+#include <stdlib.h>
+#include <stdio.h>
+
+int main() {
+	printf("blabla");
+
+	system("pause");
+	return EXIT_SUCCESS;
+}

@@ -1,0 +1,6 @@
+18:50:38 **** Incremental Build of configuration Debug for project DemoApp_RandomNameGenerator ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o utilParser.o "..\\utilParser.c" 
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o coreRandomNameGenerator.o "..\\coreRandomNameGenerator.c" 
+gcc -o DemoApp_RandomNameGenerator.exe utilParser.o main.o coreRandomNameGenerator.o 

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;DemoApp_RandomNameGenerator/utilArray.c&apos; to &apos;utilConfigArray.c&apos;" description="Rename resource &apos;utilArray.c&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="utilArray.c" name="utilConfigArray.c" stamp="1375001937911" updateReferences="true"/>
+</session>

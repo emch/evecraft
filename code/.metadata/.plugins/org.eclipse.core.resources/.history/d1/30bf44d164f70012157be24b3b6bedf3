@@ -1,0 +1,15 @@
+/*
+ * utilConfigArray.h - Configuration Array Manager [header]
+ *
+ *  Created on: 28 juil. 2013
+ *      Author: Emmanuel
+ */
+
+#ifndef UTILCONFIGARRAY_H_
+#define UTILCONFIGARRAY_H_
+
+typedef struct sUtilConfigArray {
+
+} sUtilConfigArray;
+
+#endif /* UTILCONFIGARRAY_H_ */

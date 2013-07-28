@@ -1,0 +1,44 @@
+/*
+ * utilConfigArray.h - Configuration Array Manager [header]
+ *
+ *  Created on: 28 juil. 2013
+ *      Author: Emmanuel
+ */
+
+// http://stackoverflow.com/questions/7798383/array-of-pointers-to-multiple-types-c
+
+#ifndef UTILCONFIGARRAY_H_
+#define UTILCONFIGARRAY_H_
+
+#include <stdlib.h>
+#include <stdio.h>
+
+/**
+ * \brief
+ */
+typedef enum eArrayElementType {
+	aet_str,
+	aet_int
+} eArrayElementType;
+
+/**
+ * \brief
+ * \fields
+ */
+typedef struct sArrayElement {
+	eArrayElementType	_type;
+	union {
+		char	*str;
+		int		*i;
+	};
+} sArrayElement;
+
+/**
+ * \brief
+ * \fields
+ */
+typedef struct sUtilConfigArray {
+
+} sUtilConfigArray;
+
+#endif /* UTILCONFIGARRAY_H_ */
